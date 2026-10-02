@@ -24,8 +24,6 @@
 		"clipboardWrite",
 		"menus",
 		"menus.overrideContext",
-		"tabs",
-		"accountsRead",
-		"accountsFolders"
+		"accountsRead"
 	]
 }
