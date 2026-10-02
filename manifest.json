@@ -7,7 +7,7 @@
 	"homepage_url": "https://github.com/keltar/tb_copy_my_email",
 	"browser_specific_settings": {
 		"gecko": {
-			"id": "keltar.gw@gmail.com",
+			"id": "{40537157-d110-4eb3-9dc7-d31099c1fac5}",
 			"strict_min_version": "157.0"
 		}
 	},
