@@ -1,9 +1,10 @@
 {
 	"manifest_version": 2,
 	"name": "Copy My Email",
-	"description": "A basic Hello World example extension!",
+	"description": "Copy my email address to clipboard",
 	"version": "0.1",
-	"author": "Thunderbird Team",
+	"author": "Alexander Maltsev",
+	"homepage_url": "https://github.com/keltar/tb_copy_my_email",
 	"browser_specific_settings": {
 		"gecko": {
 			"id": "keltar.gw@gmail.com",
